@@ -1,5 +1,9 @@
 ## 追加したファイル
-- [ ] members/◯◯.md
+- [ ] members/[自分のID].md
 
 ## チェック項目
-- [ ] name と account を書いた
+- [ ] nameとaccountを書いた
+
+例）
+- [x] こうするとチェックが付けられるよ！
+
