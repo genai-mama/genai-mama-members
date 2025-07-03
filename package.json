@@ -1,0 +1,28 @@
+{
+  "name": "genai-mama-members",
+  "version": "1.0.0",
+  "description": "GitHub初心者向けプルリクエスト練習場",
+  "type": "module",
+  "scripts": {
+    "build-readme": "tsx scripts/build_readme.ts"
+  },
+  "keywords": [
+    "github",
+    "tutorial",
+    "pull-request"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.0.0",
+    "tsx": "^4.7.0",
+    "typescript": "^5.3.0"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
